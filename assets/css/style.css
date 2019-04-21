@@ -1,0 +1,156 @@
+
+* {
+    box-sizing: border-box;
+  }
+
+  body {
+    position: relative;
+    background-color: #f0ead6;
+  }
+
+  .section-title {
+    text-align: center;
+    font-family: 'Lato', Sans-Serif;
+    font-size: 46px;
+    font-weight: bold;
+    color: #003F91;
+  }
+
+  .card-title {
+    font-family: 'Lato', Sans-Serif;
+    color: #003F91;
+    font-weight: bold;
+  }
+
+  .list-group-item {
+    font-family: 'Catamaran', Sans-Serif;
+  }
+
+  .about {
+    text-align: center;
+    font-family: 'Catamaran', Sans-Serif;
+    font-size: 16px;
+  }
+
+  .icon {
+    width: 32px;
+    height: 24px;
+  }
+
+  .progress-bar, .btn {
+    background-image: linear-gradient(
+      to right,
+      #bfefff,
+      #8dd2f3,
+      #5fb4e8,
+      #3594dc,
+      #1874cd);
+  }
+
+  .job-title {
+    text-align: center;
+    font-weight: bold;
+    color: #6D326D;
+    }
+
+  .navbar-brand {
+    font-family: 'Lato', Sans-Serif;
+    font-size: 46px;
+    font-weight: bold;
+  }
+
+  #navbar-side {
+    margin-top: 15px;
+    background-color: #5DA9E9;
+    border: 5px solid #FFFFFF;
+    border-radius: 20px;
+    color: #FFFFFF;
+    }
+
+  .nav-link {
+    color: #FFFFFF;
+    font-weight: bold;
+  }
+
+  #portfolio-app img {
+    height: 200px;
+    width: 250px;
+    border: 1px solid #FFFFFF;
+    margin-bottom: 15px;
+  }
+
+  #porfolio-app {
+    padding: 15px;
+  }
+
+  .portfolio-app-title {
+    position: absolute;
+    bottom: 20px;
+    width: 250px;
+    margin-bottom: 0;
+    font-weight: 300;
+    line-height: 30px;
+    color:#ffffff;
+    text-align: center;
+    background: #5DA9E9;
+    border-bottom: 0;
+    font-family: 'Catamaran', Sans-Serif;
+    font-size: 20px;
+  }
+
+  img {
+    display: block;
+  }
+
+  .list-icons {
+    text-align: center;
+  }
+
+  .edu-icons {
+    text-align: center;
+    padding-top: 15px;
+  }
+
+  #certification {
+    text-align: center;
+  }
+
+  #button {
+    margin-bottom: 80px;
+  }
+
+  .btn {
+    font-weight: 700;
+    letter-spacing: 0.1rem;
+    color: white;
+    width: 50%;
+    border: none;
+  }
+
+  #contact-me {
+    text-align: center;
+    font-family: 'Catamaran', Sans-Serif;
+  }
+
+  #mail-address a {
+    color: #242424;
+  }
+
+  footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 60px;
+    background-color: #5DA9E9;
+    color: #FFFFFF;
+    text-align: center;
+    border-top: 5px solid #FFFFFF;
+    margin: 0;
+    font-size: 10px;
+    padding-top: 10px;
+  }
+
+  #media {
+    padding-left: 10px;
+  }
